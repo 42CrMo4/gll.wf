@@ -16,7 +16,7 @@ Other than that, you're free to customize sites that you create with this templa
 
 [Browse our documentation][Just the Docs] to learn more about how to use this theme.
 
-To get started with creating a site, simply:
+To get started with creating a site, simply: redaey
 
 1. click "[use this template]" to create a GitHub repository
 2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions

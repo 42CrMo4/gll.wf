@@ -11,3 +11,6 @@ include:
   - standards
   - test.md
   - gll.wf
+
+plugins:
+  - jekyll-redirect-from

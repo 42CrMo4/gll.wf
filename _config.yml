@@ -5,12 +5,11 @@ theme: just-the-docs
 url: https://42crmo4.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Repository: https://github.com/42CrMo4/gll.wf
 
 include:
   - index.md
   - standards
-  - test.md
 
 plugins:
   - jekyll-redirect-from

@@ -1,5 +1,5 @@
 ---
-title: GLL1 - UPDI Programming Interface Connector
+title: GLL1 - UPDI Programming Interface
 layout: default
 redirect_from:
   - /1/

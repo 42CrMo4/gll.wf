@@ -21,7 +21,13 @@ For this reasons the [WR-WST REDFIT IDC SKEDD](https://www.we-online.com/en/comp
 
 ## How does it work?
 
+### pinout
 
+
+
+### connector
+
+### footprint
 
 # Cabling colours (optional)
 

@@ -15,9 +15,13 @@ It aims to be a cost effective hands free UPDI connector interface for programmi
 
 ## Why does it exist?
 
-Many designs rela on 2.54mm pinheaders or 
+Many designs rela on 2.54mm pinheaders or bulky connectors. 
+They are either not very reliable or pleasant to work with or are big and "expensive" to use for each board. 
+For this reasons the [WR-WST REDFIT IDC SKEDD](https://www.we-online.com/en/components/products/REDFIT_IDC_SKEDD) connetor is used. 
 
 ## How does it work?
+
+
 
 # Cabling colours (optional)
 
@@ -38,3 +42,11 @@ TX - green (optional)
 - big footprint compared to TagConnect or 3x1 pinheader
 - Troughthole for all pins 
 - connector only rated for 50 cycles (aspite questionable for this perpose)
+
+# alternative connector ideas
+
+A non comprehensible list of connectors for this purpose:
+- ATMEL ICE - UPDI 6 pin header
+- [AVR UPDI headers](https://microchip.my.site.com/s/article/ATMEL-ICE---UPDI-6-pin-header-internal-connections-during-programing) - MCUdude
+- [1.27mm self-clamping zigzag](https://avdweb.nl/arduino/attiny3217/ftdi-updi-connector) - avdweb
+- 3 pin 2.54mm header (VCC-UPDI-GND) or any combination

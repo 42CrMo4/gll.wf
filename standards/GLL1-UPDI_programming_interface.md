@@ -23,7 +23,7 @@ For this reasons the [WR-WST REDFIT IDC SKEDD](https://www.we-online.com/en/comp
 
 ### pinout
 
-![](../assets/images/gll1-pinout.svg)
+![](../assets/gll1-pinout.svg)
 
 ### connector
 

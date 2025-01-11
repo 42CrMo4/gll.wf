@@ -28,10 +28,13 @@ For this reasons the [WR-WST REDFIT IDC SKEDD](https://www.we-online.com/en/comp
 ### connector
 
 ToDo
+Würth - 490107670412
 
 ### footprint
 
 ![](../assets/gll1-footprint-dimensions.svg)
+
+According to the **ANE011** of Würth Elektronik with the **Debug connector** option. 
 
 # Cabling colours (optional)
 
@@ -49,13 +52,15 @@ UPDI - blue
 TX - green (optional)
 {: .text-green-200}
 
-### pros
+# pros and cons
+
+## pros
 - hands free as the connector is self clamping
 - cheap on the target side (no additional component)
 - Reverse polarity protected
 - no crimping tool needed (atleast not in low quantities)
 
-### cons
+## cons
 - big footprint compared to TagConnect or 3x1 pinheader
 - Troughthole for all pins 
 - connector only rated for 50 cycles (aspite questionable for this perpose)

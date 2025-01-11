@@ -38,10 +38,13 @@ ToDo
 The cabling to the connetor is not too important, as the connector makes only in the correct positions contact, but for good practice it makes it more abvois for the user.
 
 VCC - red 
-{: .label .label-blue }
+{: .label .label-red }
 GND - black
+blue {: .label .label-black } 
 UPDI - blue
+blue {: .label .label-blue } 
 TX - green (optional)
+blue {: .label .label-green } 
 
 ### pros
 - hands free as the connector is self clamping

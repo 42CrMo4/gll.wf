@@ -39,10 +39,13 @@ The cabling to the connetor is not too important, as the connector makes only in
 
 VCC - red 
 {: .label .label-red }
+
 GND - black 
 {: .label .label-black } 
+
 UPDI - blue
 {: .label .label-blue } 
+
 TX - green (optional)
 {: .label .label-green } 
 

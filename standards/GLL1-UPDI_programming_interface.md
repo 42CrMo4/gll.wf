@@ -27,6 +27,8 @@ For this reasons the [WR-WST REDFIT IDC SKEDD](https://www.we-online.com/en/comp
 
 ### connector
 
+ToDo
+
 ### footprint
 
 ![](../assets/gll1-footprint-dimensions.svg)

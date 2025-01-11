@@ -38,6 +38,7 @@ ToDo
 The cabling to the connetor is not too important, as the connector makes only in the correct positions contact, but for good practice it makes it more abvois for the user.
 
 VCC - red 
+{: .text-blue-200}
 
 GND - black
 

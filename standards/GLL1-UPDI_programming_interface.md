@@ -40,7 +40,8 @@ The cabling to the connetor is not too important, as the connector makes only in
 VCC - red 
 {: .text-red-300}
 
-GND - black
+GND - black 
+{: .text-grey-dk-300}
 
 UPDI - blue
 {: .text-blue-200}

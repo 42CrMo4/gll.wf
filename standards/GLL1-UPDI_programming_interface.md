@@ -39,13 +39,12 @@ The cabling to the connetor is not too important, as the connector makes only in
 
 VCC - red 
 {: .label .label-red }
-GND - black
-blue 
-{: .label .label-grey-dk-300 } 
+GND - black 
+{: .label .label-black } 
 UPDI - blue
-blue {: .label .label-blue } 
+{: .label .label-blue } 
 TX - green (optional)
-blue {: .label .label-green } 
+{: .label .label-green } 
 
 ### pros
 - hands free as the connector is self clamping

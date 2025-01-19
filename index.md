@@ -12,6 +12,9 @@ These are tailored to a workshop with the two main areas of productivity.
 It aims to make life easier and avoid adding overhead by potentially doing the same thing in different ways and spending time and effort on an already solved problem. 
 It does not claim to be unique or the best.
 
+# Standards
+{% link standards/GLL1-UPDI_programming_interface.md %}
+
 # Feedback
 Feedback is very welcome and the best place to provide it is the [github repository](https://github.com/42CrMo4/gll.wf).
 

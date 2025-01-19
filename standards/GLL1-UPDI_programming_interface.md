@@ -40,6 +40,8 @@ The connector on the cable is a [**Würth - 490107670412**](https://www.we-onlin
 
 The footprint is designed according to the [**ANE011**](https://www.we-online.com/components/media/o210254v410%20ANE011b_EN.pdf) of Würth Elektronik with the **Debug connector** layout. 
 
+KiCad Footprint - [GLL1 - UPDI programming interface]({% link assets/GLL1 - KiCad.zip %})
+
 # Cabling colours (optional)
 
 The colours of the cabling to the connetor is not too important, as the connector only makes in the correct positions contact. 

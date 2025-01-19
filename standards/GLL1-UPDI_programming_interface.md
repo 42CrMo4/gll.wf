@@ -21,7 +21,7 @@ For this reasons the [WR-WST REDFIT IDC SKEDD](https://www.we-online.com/en/comp
 
 ## How does it work?
 
-The cable from the programmer (VCC{: .text-red-300}-UPDI{: .text-blue-200}-GND) will have the connector and the PCB will only need a footprint. 
+The cable from the programmer (VCC-UPDI-GND) will have the connector and the PCB will only need a footprint. 
 So there is no need for a connector on the PCB itself (reducing cost and assembly time).
 Additionally it supports, as we have one pin free, the TX of the UART.
 Thias can be used to serial "debug" the MCU. 

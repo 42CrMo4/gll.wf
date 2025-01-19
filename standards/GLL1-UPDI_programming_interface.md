@@ -80,8 +80,8 @@ It should be considered if these a acceptable for your project or situation.
 
 # Usefull Links and Tools
 
-[SKEDD connector press tool](https://www.thingiverse.com/thing:6157896)
-[Datasheet](https://www.we-online.com/components/products/datasheet/490107670412.pdf)
+- [SKEDD connector press tool](https://www.thingiverse.com/thing:6157896)
+- [Datasheet](https://www.we-online.com/components/products/datasheet/490107670412.pdf)
 
 # alternative connector ideas
 

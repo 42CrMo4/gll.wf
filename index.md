@@ -13,7 +13,7 @@ It aims to make life easier and avoid adding overhead by potentially doing the s
 It does not claim to be unique or the best.
 
 # Standards
-{% link standards/GLL1-UPDI_programming_interface.md %}
+[GLL1 - UPDI programming interface]({% link standards/GLL1-UPDI_programming_interface.md %})
 
 # Feedback
 Feedback is very welcome and the best place to provide it is the [github repository](https://github.com/42CrMo4/gll.wf).

@@ -26,15 +26,15 @@ So there is no need for a connector on the PCB itself (reducing cost and assembl
 Additionally it supports, as we have one pin free, the TX of the UART.
 Thias can be used to serial "debug" the MCU. 
 
-### pinout
+### Pinout
 
 ![](../assets/gll1-pinout.svg)
 
-### connector
+### Connector
 
 The connector on the cable is a [**Würth - 490107670412**](https://www.we-online.com/en/components/products/REDFIT_IDC_SKEDD) and can be found at the major electronic component distributors such as DigiKey, Mouser, Farnell, etc. 
 
-### footprint
+### Footprint
 
 ![](../assets/gll1-footprint-dimensions.svg)
 
@@ -59,18 +59,18 @@ UPDI - blue
 TX - green (optional)
 {: .text-green-200}
 
-# pros and cons
+# Pros and Cons
 
 This approach has, as always, pros and cons. 
 It should be considered if these a acceptable for your project or situation. 
 
-## pros
+## Pros
 - hands free as the connector is self clamping
 - cheap on the target side (no additional component)
 - Reverse polarity protected
 - no crimping tool needed (atleast not in low quantities or home lab use)
 
-## cons
+## Cons
 - big footprint compared to 
   - TagConnect 
   - 3x1 2.54mm or 
@@ -83,7 +83,7 @@ It should be considered if these a acceptable for your project or situation.
 - [SKEDD connector press tool](https://www.thingiverse.com/thing:6157896)
 - [Datasheet](https://www.we-online.com/components/products/datasheet/490107670412.pdf)
 
-# alternative connector ideas
+# Alternative connector ideas
 
 A non comprehensible list of connectors for this purpose:
 - ATMEL ICE - UPDI 6 pin header
